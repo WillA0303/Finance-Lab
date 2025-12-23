@@ -2,7 +2,6 @@ import { Link, useParams } from 'react-router-dom';
 import Card from '../components/Card';
 import Button from '../components/Button';
 import { useAppContext } from '../App';
-import { Mode } from '../types/state';
 
 export default function ModulesList() {
   const { mode } = useParams();
