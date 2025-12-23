@@ -1,4 +1,4 @@
-https://willa0303.github.io/Finance-Lab/mode
+https://willa0303.github.io/Finance-Lab
 
 \# Finance Lab
 
