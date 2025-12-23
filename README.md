@@ -1,3 +1,5 @@
+https://willa0303.github.io/Finance-Lab/mode
+
 \# Finance Lab
 
 
